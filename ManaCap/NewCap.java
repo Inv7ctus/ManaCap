@@ -7,7 +7,7 @@
  */
 public class NewCap
 {
-    public static void main (String args[])
+    public static void main (String[] args)
     {
         ManaCapCalc capacity = new ManaCapCalc();
         capacity.calc();
