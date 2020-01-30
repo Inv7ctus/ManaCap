@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ class\ represents\ a\ player,\ Who\ can\ have\ 1\ or\ more\ capacities.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mana
+comment1.target=Player(int)
+comment2.params=mana\ mana2
+comment2.target=Player(int,\ int)
+comment3.params=mana\ mana2\ mana3
+comment3.target=Player(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ rest()
+numComments=5
